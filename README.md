@@ -1,15 +1,14 @@
 # E-Commerce App
 
 A beginner-friendly **Flutter e-commerce application** that demonstrates basic mobile app development concepts.  
-This project includes product listing, product details, and cart management features.
+
 
 ---
 
 ## Features
 
 - Display a list of products  
-- View product details  
-- Add products to cart  
+- View product details    
 - Basic navigation between screens  
 
 ---
@@ -18,7 +17,7 @@ This project includes product listing, product details, and cart management feat
 
 - **Flutter**  
 - **Dart**  
-- Optional: Provider / GetX (for state management)  
+
 
 ---
 
